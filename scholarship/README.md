@@ -1,10 +1,12 @@
+<p align="center"><img src ="../images/logo.png" width="600px"/></p>
+
 # App Builders Scholarships
 During the first version of App Builders, we offered a limited number of tickets to students at a discounted price. It turned out to be a great decision as we welcomed students from all over Europe.
 
 We are very busy working on App Builders 2017 and we want to provide more help to students. We would like to inspire them in contributing to the community, learning the newest technologies and meeting new amazing people. For this reason, we are excited to announce the **App Builders 2017 Scholarships**.
 ### Applying
 We want to help students be part of the community. To apply for a scholarship, **you will need to contribute to an open-source project**. No matter your experience with Swift, Objective-C, Kotlin or Java. Pick a project you are excited about and **try to help** in any way you can. This could include fixing typos, writing documentation, helping someone else in a Github issue, opening a new issue or even opening a pull request. You're also welcome to create a new open-source project if you want. 
-Once you feel proud of your contribution, you can apply for a scholarship by filling out [our application form](TODO).
+Once you feel proud of your contribution, you can apply for a scholarship by filling out [our application form](https://docs.google.com/forms/d/19pRTVksY4-1XwuTlGxjg5FmaylN4f4NKJMSQZVxrs4I/).
 
 ### Deadline
 We will stop accepting applications on February 19th, 2017. We will let you know about the status of your application by February 24th, 2017.
