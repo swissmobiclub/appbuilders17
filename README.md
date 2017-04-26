@@ -12,7 +12,7 @@ A Conference about mobile technologies in the heart of Europe taking place in La
 
 **[John Sundell](https://twitter.com/johnsundell)**: Swift scripting in practice - Slides
 
-**[Marcos Placona](http://twitter.com/marcos_placona)**: I just hacked your app! - Slides
+**[Marcos Placona](http://twitter.com/marcos_placona)**: I just hacked your app! - [Slides](https://speakerdeck.com/mplacona/i-just-hacked-your-app-appbuilders-switzerland-2017)
 
 **[Maxim Zaks](http://twitter.com/icex33)**: Talk Binary to Me - Slides
 
@@ -32,9 +32,9 @@ A Conference about mobile technologies in the heart of Europe taking place in La
 
 **[Krunoslav Zaher](https://twitter.com/krunoslavzaher)**: Observable.interval(10.min).map(level).take(3) - Slides
 
-**[Andreas Vourkos](https://twitter.com/vourkosa)**: App retention, engagement and everything between - Slides
+**[Andreas Vourkos](https://twitter.com/vourkosa)**: App retention, engagement and everything between - [Slides](https://speakerdeck.com/vourkosa/app-retention-engagement-and-everything-between)
 
-**[Anastasiia Voitova](http://twitter.com/vixentael)**: Keys from the castle: ancient art of managing keys and trust - Slides
+**[Anastasiia Voitova](http://twitter.com/vixentael)**: Keys from the castle: ancient art of managing keys and trust - [Slides](https://speakerdeck.com/vixentael/keys-from-the-castle-ancient-art-of-managing-keys-and-trust)
 
 **[Wajdi Ben Rabah](http://twitter.com/wajdibenrabah)**: Interactions in parallel worlds with android - Slides
 
@@ -54,13 +54,13 @@ A Conference about mobile technologies in the heart of Europe taking place in La
 
 **[Marcel Weiher](https://twitter.com/mpweiher)**: High Performance Architecture - Slides
 
-**[Rebecca Franks](https://twitter.com/riggaroo)**: Android Things - The IoT platform for everyone - Slides
+**[Rebecca Franks](https://twitter.com/riggaroo)**: Android Things - The IoT platform for everyone - [Slides](https://speakerdeck.com/riggaroo/android-things-the-iot-platform-for-everyone-app-builders-switzerland)
 
 **[Benedikt Terhechte](http://twitter.com/terhechte)**: Protocols with Associated Types: When to use them and how to avoid their pitfalls - Slides
 
 **[Elaine Dias Batista](http://twitter.com/elainedbatista)**: Google Home Hands On - Introduction to Actions on Google - Slides
 
-**[Adrian Kosmaczewski](http://twitter.com/akosma)**: Developer's Guide To Migrate Across Galaxies - Slides
+**[Adrian Kosmaczewski](http://twitter.com/akosma)**: Developer's Guide To Migrate Across Galaxies - [Slides](https://speakerdeck.com/akosma/developer-guide-to-migrate-accross-galaxies)
 
 **[Damian Mehers](https://twitter.com/damianmehers)**: iOS and Android and C# and Xamarin: These are a few of my favorite things. - Slides
 
@@ -68,7 +68,7 @@ A Conference about mobile technologies in the heart of Europe taking place in La
 
 **[Michael Fetzer](https://twitter.com/m_fetzer)**: SBB Mobile Android App Architecture - Slides
 
-**[Meghan Kane](https://twitter.com/meghafon)**: Getting Started with Machine Learning in your iOS apps - Slides
+**[Meghan Kane](https://twitter.com/meghafon)**: Getting Started with Machine Learning in your iOS apps - [Slides](https://speakerdeck.com/meghaphone/getting-started-with-machine-learning-in-your-ios-apps)
 
 **[Michael Guntli](#)**: Building an industrial device based on Android - Slides
 
