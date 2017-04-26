@@ -14,13 +14,13 @@ A Conference about mobile technologies in the heart of Europe taking place in La
 
 **[Marcos Placona](http://twitter.com/marcos_placona)**: I just hacked your app! - [Slides](https://speakerdeck.com/mplacona/i-just-hacked-your-app-appbuilders-switzerland-2017)
 
-**[Maxim Zaks](http://twitter.com/icex33)**: Talk Binary to Me - Slides
+**[Maxim Zaks](http://twitter.com/icex33)**: Talk Binary to Me - [Slides](https://www.slideshare.net/maximzaks/talk-binary-to-me)
 
 **[Cesar Valiente](http://twitter.com/CesarValiente)**: Unidirectional data flow on Android using Kotlin - Slides
 
 **[Roy Marmelstein](https://twitter.com/marmelroy)**: Silver Bullets in Swift - Slides
 
-**[Roberto Orgiu](https://twitter.com/_tiwiz) & [Matteo Bonifazi](https://twitter.com/mbonifazi)**: BackendLESS apps: how and why - Slides
+**[Roberto Orgiu](https://twitter.com/_tiwiz) & [Matteo Bonifazi](https://twitter.com/mbonifazi)**: BackendLESS apps: how and why - [Slides](https://www.slideshare.net/MatteoBonifazi/backendless-apps)
 
 **[Ash Furrow](http://twitter.com/ashfurrow)**: Comparative Asynchronous Programming - Slides
 
@@ -36,7 +36,7 @@ A Conference about mobile technologies in the heart of Europe taking place in La
 
 **[Anastasiia Voitova](http://twitter.com/vixentael)**: Keys from the castle: ancient art of managing keys and trust - [Slides](https://speakerdeck.com/vixentael/keys-from-the-castle-ancient-art-of-managing-keys-and-trust)
 
-**[Wajdi Ben Rabah](http://twitter.com/wajdibenrabah)**: Interactions in parallel worlds with android - Slides
+**[Wajdi Ben Rabah](http://twitter.com/wajdibenrabah)**: Interactions in parallel worlds with android - [Slides](https://speakerdeck.com/wajdibr/interactions-in-parallel-worlds-with-android)
 
 ### 25th April 2017
 
