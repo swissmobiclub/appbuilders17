@@ -30,7 +30,7 @@ A Conference about mobile technologies in the heart of Europe taking place in La
 
 **[Lorica Claesson](https://twitter.com/lorica)**: Animations for a better user experience - Slides
 
-**[Krunoslav Zaher](https://twitter.com/krunoslavzaher)**: Observable.interval(10.min).map(level).take(3) - Slides
+**[Krunoslav Zaher](https://twitter.com/krunoslavzaher)**: Observable.interval(10.min).map(level).take(3) - Slides - [Video](https://www.youtube.com/watch?v=7fFiifnbCik)
 
 **[Andreas Vourkos](https://twitter.com/vourkosa)**: App retention, engagement and everything between - [Slides](https://speakerdeck.com/vourkosa/app-retention-engagement-and-everything-between)
 
