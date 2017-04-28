@@ -56,7 +56,7 @@ A Conference about mobile technologies in the heart of Europe taking place in La
 
 **[Rebecca Franks](https://twitter.com/riggaroo)**: Android Things - The IoT platform for everyone - [Slides](https://speakerdeck.com/riggaroo/android-things-the-iot-platform-for-everyone-app-builders-switzerland)
 
-**[Benedikt Terhechte](http://twitter.com/terhechte)**: Protocols with Associated Types: When to use them and how to avoid their pitfalls - Slides
+**[Benedikt Terhechte](http://twitter.com/terhechte)**: Protocols with Associated Types: When to use them and how to avoid their pitfalls - [Slides](https://speakerdeck.com/terhechte/protocols-with-associated-types-when-to-use-them-and-how-to-avoid-their-pitfalls)
 
 **[Elaine Dias Batista](http://twitter.com/elainedbatista)**: Google Home Hands On - Introduction to Actions on Google - Slides
 
