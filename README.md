@@ -10,7 +10,7 @@ A Conference about mobile technologies in the heart of Europe taking place in La
 
 **[Felix Krause](https://twitter.com/krausefx)**: Scaling open source communities - Slides
 
-**[John Sundell](https://twitter.com/johnsundell)**: Swift scripting in practice - Slides
+**[John Sundell](https://twitter.com/johnsundell)**: Swift scripting in practice - Slides - [Video](https://www.youtube.com/watch?v=PFdh5G3BJqM)
 
 **[Marcos Placona](http://twitter.com/marcos_placona)**: I just hacked your app! - [Slides](https://speakerdeck.com/mplacona/i-just-hacked-your-app-appbuilders-switzerland-2017)
 
@@ -60,7 +60,7 @@ A Conference about mobile technologies in the heart of Europe taking place in La
 
 **[Elaine Dias Batista](http://twitter.com/elainedbatista)**: Google Home Hands On - Introduction to Actions on Google - Slides
 
-**[Adrian Kosmaczewski](http://twitter.com/akosma)**: Developer's Guide To Migrate Across Galaxies - [Slides](https://speakerdeck.com/akosma/developer-guide-to-migrate-accross-galaxies)
+**[Adrian Kosmaczewski](http://twitter.com/akosma)**: Developer's Guide To Migrate Across Galaxies - [Slides](https://speakerdeck.com/akosma/developer-guide-to-migrate-accross-galaxies) - [Video](https://www.youtube.com/watch?v=yiBj97-tJ8M&t=429s)
 
 **[Damian Mehers](https://twitter.com/damianmehers)**: iOS and Android and C# and Xamarin: These are a few of my favorite things. - Slides
 
