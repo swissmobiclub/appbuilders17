@@ -26,7 +26,7 @@ A Conference about mobile technologies in the heart of Europe taking place in La
 
 **[Elif Boncuk](https://twitter.com/elifbon_)**: Android Layouts and A New One: ConstraintLayout - Slides
 
-**[Peter Steinberger](https://twitter.com/steipete)**: Building a sustainable codebase: 7 years and counting - Slides
+**[Peter Steinberger](https://twitter.com/steipete)**: Building a sustainable codebase: 7 years and counting - Slides - [Video](https://www.youtube.com/watch?v=AxF2NuDKxdY)
 
 **[Lorica Claesson](https://twitter.com/lorica)**: Animations for a better user experience - Slides
 
@@ -44,11 +44,11 @@ A Conference about mobile technologies in the heart of Europe taking place in La
 
 **[Dennis Pilarinos](https://twitter.com/dennispilarinos)**: Putting together the best CI workflow for mobile apps - Slides
 
-**[Niels Van Hoorn](https://twitter.com/nvh)**: Prototype Everything - Slides
+**[Niels Van Hoorn](https://twitter.com/nvh)**: Prototype Everything - Slides - [Video](https://www.youtube.com/watch?v=QJdTMLBoGm0)
 
 **[Florina Muntenescu](https://twitter.com/FMuntenescu)**: MVVM - It’s all in the (implementation) details - Slides
 
-**[Jens Ravens](https://twitter.com/jensravens)**: Server Side Swift - Slides
+**[Jens Ravens](https://twitter.com/jensravens)**: Server Side Swift - Slides - [Video](https://www.youtube.com/watch?v=7ClTsnCkWCM)
 
 **[Etienne Studer](http://twitter.com/etiennestuder)**: Revolutionary Gradle features - Slides
 
